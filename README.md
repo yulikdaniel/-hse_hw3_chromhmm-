@@ -60,21 +60,21 @@ Hsmm	H4k20me1StdAlnRep1	H4k20me1StdAlnRep1.bam	ControlStdAlnRep1.bam
 Табличка:
 
 
-|Номер|Расшифровка| Метки |
-|-|-|-|-|-|
-| 1 | Active_Promoter | - |
-| 2 | Weak_Promoter | - |
-| 3 | Inactive/poised_promoter | - |
-| 4 | Strong_enhancer | - |
+| Номер | Расшифровка | Метки |
+|-|-|-|
+| 1 | Active_Promoter | _ |
+| 2 | Weak_Promoter | _ |
+| 3 | Inactive/poised_promoter | _ |
+| 4 | Strong_enhancer | _ |
 | 5 | Strong_enhancer | CTCF |
-| 6 | Weak/poised_enhancer | - |
-| 7 | Weak/poised_enhancer | - |
+| 6 | Weak/poised_enhancer | _ |
+| 7 | Weak/poised_enhancer | _ |
 | 8 | Insulator | H3K4m1,H3K27m3 |
 | 9 | Transcriptional_transition | H3K4m3,H3K4m1 |
-| 10 | Transcriptional_transition | - |
+| 10 | Transcriptional_transition | _ |
 | 11 | Weak_transcribed | CTCF,H3K4m1 |
-| 12 | Polycombed_repressed | - |
-| 13 | Heterochromatin;_low_signal | - |
+| 12 | Polycombed_repressed | _ |
+| 13 | Heterochromatin;_low_signal | _ |
 
 ![AltText](readmepics/7.png)
 
