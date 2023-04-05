@@ -1,0 +1,443 @@
+13	10	E	-7164075.840730252	200
+probinit	1	9.943416962040133E-54
+probinit	2	0.9536582991692356
+probinit	3	1.523230915945286E-135
+probinit	4	0.04634170083076435
+probinit	5	1.5074536886014644E-214
+probinit	6	0.0
+probinit	7	0.0
+probinit	8	0.0
+probinit	9	0.0
+probinit	10	0.0
+probinit	11	0.0
+probinit	12	0.0
+probinit	13	0.0
+transitionprobs	1	1	0.9169248643828285
+transitionprobs	1	2	0.030766480509364345
+transitionprobs	1	3	0.03918441950383492
+transitionprobs	1	4	0.005742078068570988
+transitionprobs	1	5	0.0
+transitionprobs	1	6	0.0029423092937169485
+transitionprobs	1	7	8.659349642198988E-4
+transitionprobs	1	8	0.0
+transitionprobs	1	9	0.0
+transitionprobs	1	10	7.295166563642043E-4
+transitionprobs	1	11	0.0
+transitionprobs	1	12	8.43650768118371E-4
+transitionprobs	1	13	0.00200074585298174
+transitionprobs	2	1	0.0018864987616687811
+transitionprobs	2	2	0.9959524769840573
+transitionprobs	2	3	5.40022385822374E-4
+transitionprobs	2	4	1.700187820050995E-4
+transitionprobs	2	5	0.0
+transitionprobs	2	6	0.0
+transitionprobs	2	7	0.0
+transitionprobs	2	8	0.0
+transitionprobs	2	9	3.820522914334301E-7
+transitionprobs	2	10	1.429341393759812E-4
+transitionprobs	2	11	2.713713744408666E-5
+transitionprobs	2	12	2.065870119353486E-4
+transitionprobs	2	13	0.001073942745399852
+transitionprobs	3	1	0.002633248827742806
+transitionprobs	3	2	6.314109067758917E-4
+transitionprobs	3	3	0.9687414622665188
+transitionprobs	3	4	4.641690612444759E-4
+transitionprobs	3	5	5.125225246511437E-4
+transitionprobs	3	6	0.012093395086072897
+transitionprobs	3	7	9.489716856318245E-4
+transitionprobs	3	8	4.838695857115469E-5
+transitionprobs	3	9	2.2857447447762698E-5
+transitionprobs	3	10	7.769870501222891E-4
+transitionprobs	3	11	2.2026139852340454E-4
+transitionprobs	3	12	0.006308519963763458
+transitionprobs	3	13	0.006597806822933951
+transitionprobs	4	1	0.05565743523467794
+transitionprobs	4	2	0.025909166956358164
+transitionprobs	4	3	0.06731725306818749
+transitionprobs	4	4	0.807913734184382
+transitionprobs	4	5	6.553971345103661E-5
+transitionprobs	4	6	1.4847955851384953E-4
+transitionprobs	4	7	2.362812712793286E-4
+transitionprobs	4	8	1.1991628266305694E-4
+transitionprobs	4	9	0.0
+transitionprobs	4	10	0.03954500343468487
+transitionprobs	4	11	6.711567608708673E-5
+transitionprobs	4	12	3.0395975244706013E-6
+transitionprobs	4	13	0.003017035022190653
+transitionprobs	5	1	4.910475065800328E-5
+transitionprobs	5	2	2.7608484800804185E-8
+transitionprobs	5	3	0.017925334552931726
+transitionprobs	5	4	1.036999241001615E-5
+transitionprobs	5	5	0.956343211289821
+transitionprobs	5	6	0.002436218930404158
+transitionprobs	5	7	8.615823952518617E-4
+transitionprobs	5	8	0.0
+transitionprobs	5	9	0.0
+transitionprobs	5	10	0.0
+transitionprobs	5	11	0.020902435292977146
+transitionprobs	5	12	0.0
+transitionprobs	5	13	0.0014717151870613353
+transitionprobs	6	1	0.0030074884633845013
+transitionprobs	6	2	3.8163331966520793E-8
+transitionprobs	6	3	0.2097192963911494
+transitionprobs	6	4	5.30511420089298E-5
+transitionprobs	6	5	0.0012302453864251534
+transitionprobs	6	6	0.6430117658757918
+transitionprobs	6	7	0.0820605138054798
+transitionprobs	6	8	0.008336122517219009
+transitionprobs	6	9	0.0
+transitionprobs	6	10	0.0013871737094916384
+transitionprobs	6	11	0.012928002930640663
+transitionprobs	6	12	0.03302943981254567
+transitionprobs	6	13	0.005236861802531493
+transitionprobs	7	1	0.002852795780609963
+transitionprobs	7	2	0.0
+transitionprobs	7	3	0.04189980002843992
+transitionprobs	7	4	0.0
+transitionprobs	7	5	7.782327833075474E-4
+transitionprobs	7	6	0.2081346455956289
+transitionprobs	7	7	0.5861205590107227
+transitionprobs	7	8	0.15608131073688802
+transitionprobs	7	9	0.0
+transitionprobs	7	10	0.0
+transitionprobs	7	11	0.0
+transitionprobs	7	12	0.002790084308759044
+transitionprobs	7	13	0.0013425717556438703
+transitionprobs	8	1	7.02006754270417E-5
+transitionprobs	8	2	0.0
+transitionprobs	8	3	0.0039014597133832565
+transitionprobs	8	4	6.70071105249336E-5
+transitionprobs	8	5	0.0
+transitionprobs	8	6	0.029718993600204874
+transitionprobs	8	7	0.23857994980137465
+transitionprobs	8	8	0.6614591831970328
+transitionprobs	8	9	0.010652930714022868
+transitionprobs	8	10	0.0
+transitionprobs	8	11	0.006471898555774091
+transitionprobs	8	12	0.047713397101139254
+transitionprobs	8	13	0.0013649795311162412
+transitionprobs	9	1	2.5551147758157814E-5
+transitionprobs	9	2	0.0
+transitionprobs	9	3	0.0017628227449636785
+transitionprobs	9	4	0.0
+transitionprobs	9	5	0.0
+transitionprobs	9	6	0.0
+transitionprobs	9	7	0.0
+transitionprobs	9	8	0.012321200865389924
+transitionprobs	9	9	0.8119672371386575
+transitionprobs	9	10	0.09942868195820512
+transitionprobs	9	11	0.058121934986368036
+transitionprobs	9	12	0.01609868824681677
+transitionprobs	9	13	2.7388291184115345E-4
+transitionprobs	10	1	0.005437474467454346
+transitionprobs	10	2	0.01234347172149152
+transitionprobs	10	3	0.06893209337977663
+transitionprobs	10	4	0.026246131829273458
+transitionprobs	10	5	0.0
+transitionprobs	10	6	0.006700635077518307
+transitionprobs	10	7	0.0
+transitionprobs	10	8	0.0
+transitionprobs	10	9	0.12185061642836481
+transitionprobs	10	10	0.655877738805965
+transitionprobs	10	11	0.00582810228127224
+transitionprobs	10	12	0.08782968658650069
+transitionprobs	10	13	0.008954049422383054
+transitionprobs	11	1	4.45359176557888E-5
+transitionprobs	11	2	0.003693050717857726
+transitionprobs	11	3	0.025718505269530546
+transitionprobs	11	4	0.0
+transitionprobs	11	5	0.06715895328629005
+transitionprobs	11	6	0.08343923373232465
+transitionprobs	11	7	0.0
+transitionprobs	11	8	0.01192427154423291
+transitionprobs	11	9	0.0811178921623167
+transitionprobs	11	10	0.006768185422569745
+transitionprobs	11	11	0.7193901948520216
+transitionprobs	11	12	0.0
+transitionprobs	11	13	7.451770952001563E-4
+transitionprobs	12	1	0.0026123229246117056
+transitionprobs	12	2	0.008216029964712155
+transitionprobs	12	3	0.2513626156429518
+transitionprobs	12	4	0.0
+transitionprobs	12	5	0.0
+transitionprobs	12	6	0.07393980483680103
+transitionprobs	12	7	0.0031078472632500424
+transitionprobs	12	8	0.028209371548780154
+transitionprobs	12	9	0.008913635440048324
+transitionprobs	12	10	0.0388321846622381
+transitionprobs	12	11	0.0
+transitionprobs	12	12	0.5689612145247953
+transitionprobs	12	13	0.015844973191811367
+transitionprobs	13	1	0.008538233427863317
+transitionprobs	13	2	0.07674288360458793
+transitionprobs	13	3	0.4460921627542803
+transitionprobs	13	4	0.0015650467862198772
+transitionprobs	13	5	0.0031562478663070517
+transitionprobs	13	6	0.020705378992635012
+transitionprobs	13	7	0.0025644930426729894
+transitionprobs	13	8	0.0013878120473859064
+transitionprobs	13	9	3.164635725795181E-4
+transitionprobs	13	10	0.006469538140000516
+transitionprobs	13	11	4.3163316703385957E-4
+transitionprobs	13	12	0.025294560918734492
+transitionprobs	13	13	0.40673554567969916
+emissionprobs	1	0	CtcfStdAlnRep1	0	0.9971254962566888
+emissionprobs	1	0	CtcfStdAlnRep1	1	0.0028745037433112407
+emissionprobs	1	1	Ezh239875AlnRep1	0	0.9897649810259802
+emissionprobs	1	1	Ezh239875AlnRep1	1	0.010235018974019891
+emissionprobs	1	2	H2azStdAlnRep1	0	0.9989609333754504
+emissionprobs	1	2	H2azStdAlnRep1	1	0.0010390666245495728
+emissionprobs	1	3	H3k27acStdAlnRep1	0	0.9994831992531452
+emissionprobs	1	3	H3k27acStdAlnRep1	1	5.168007468547815E-4
+emissionprobs	1	4	H3k4me1StdAlnRep1	0	0.9991830582147927
+emissionprobs	1	4	H3k4me1StdAlnRep1	1	8.169417852072591E-4
+emissionprobs	1	5	H3k4me2StdAlnRep1	0	0.9998805411005635
+emissionprobs	1	5	H3k4me2StdAlnRep1	1	1.1945889943647572E-4
+emissionprobs	1	6	H3k4me3StdAlnRep1	0	0.9984927798404305
+emissionprobs	1	6	H3k4me3StdAlnRep1	1	0.001507220159569469
+emissionprobs	1	7	H3k9acStdAlnRep1	0	0.9992269025941289
+emissionprobs	1	7	H3k9acStdAlnRep1	1	7.730974058710687E-4
+emissionprobs	1	8	H3k9me3StdAlnRep1	0	0.7806102475915838
+emissionprobs	1	8	H3k9me3StdAlnRep1	1	0.21938975240841616
+emissionprobs	1	9	H4k20me1StdAlnRep1	0	0.9979369544508199
+emissionprobs	1	9	H4k20me1StdAlnRep1	1	0.0020630455491801062
+emissionprobs	2	0	CtcfStdAlnRep1	0	0.9993724930354305
+emissionprobs	2	0	CtcfStdAlnRep1	1	6.275069645694162E-4
+emissionprobs	2	1	Ezh239875AlnRep1	0	0.9944892530236276
+emissionprobs	2	1	Ezh239875AlnRep1	1	0.005510746976372435
+emissionprobs	2	2	H2azStdAlnRep1	0	0.9998790753484141
+emissionprobs	2	2	H2azStdAlnRep1	1	1.2092465158589659E-4
+emissionprobs	2	3	H3k27acStdAlnRep1	0	0.9999613340180339
+emissionprobs	2	3	H3k27acStdAlnRep1	1	3.8665981966068995E-5
+emissionprobs	2	4	H3k4me1StdAlnRep1	0	0.9998994998545829
+emissionprobs	2	4	H3k4me1StdAlnRep1	1	1.0050014541705024E-4
+emissionprobs	2	5	H3k4me2StdAlnRep1	0	0.9999332959910894
+emissionprobs	2	5	H3k4me2StdAlnRep1	1	6.670400891063375E-5
+emissionprobs	2	6	H3k4me3StdAlnRep1	0	0.9999026722065998
+emissionprobs	2	6	H3k4me3StdAlnRep1	1	9.732779340020198E-5
+emissionprobs	2	7	H3k9acStdAlnRep1	0	0.999565856857883
+emissionprobs	2	7	H3k9acStdAlnRep1	1	4.3414314211705386E-4
+emissionprobs	2	8	H3k9me3StdAlnRep1	0	0.994119049547942
+emissionprobs	2	8	H3k9me3StdAlnRep1	1	0.005880950452058054
+emissionprobs	2	9	H4k20me1StdAlnRep1	0	0.9988604649661419
+emissionprobs	2	9	H4k20me1StdAlnRep1	1	0.0011395350338581937
+emissionprobs	3	0	CtcfStdAlnRep1	0	0.9999999704170789
+emissionprobs	3	0	CtcfStdAlnRep1	1	2.958292105415071E-8
+emissionprobs	3	1	Ezh239875AlnRep1	0	0.9874344452908224
+emissionprobs	3	1	Ezh239875AlnRep1	1	0.012565554709177747
+emissionprobs	3	2	H2azStdAlnRep1	0	0.9959423175174437
+emissionprobs	3	2	H2azStdAlnRep1	1	0.0040576824825563585
+emissionprobs	3	3	H3k27acStdAlnRep1	0	0.999889812825594
+emissionprobs	3	3	H3k27acStdAlnRep1	1	1.101871744061155E-4
+emissionprobs	3	4	H3k4me1StdAlnRep1	0	0.9990771682221089
+emissionprobs	3	4	H3k4me1StdAlnRep1	1	9.228317778910679E-4
+emissionprobs	3	5	H3k4me2StdAlnRep1	0	0.9998760827726603
+emissionprobs	3	5	H3k4me2StdAlnRep1	1	1.2391722733969465E-4
+emissionprobs	3	6	H3k4me3StdAlnRep1	0	0.999703460459297
+emissionprobs	3	6	H3k4me3StdAlnRep1	1	2.965395407029117E-4
+emissionprobs	3	7	H3k9acStdAlnRep1	0	0.9985321451334425
+emissionprobs	3	7	H3k9acStdAlnRep1	1	0.0014678548665575367
+emissionprobs	3	8	H3k9me3StdAlnRep1	0	0.9903881984001794
+emissionprobs	3	8	H3k9me3StdAlnRep1	1	0.009611801599820526
+emissionprobs	3	9	H4k20me1StdAlnRep1	0	0.9966407658729245
+emissionprobs	3	9	H4k20me1StdAlnRep1	1	0.0033592341270755216
+emissionprobs	4	0	CtcfStdAlnRep1	0	0.9605300385823682
+emissionprobs	4	0	CtcfStdAlnRep1	1	0.03946996141763192
+emissionprobs	4	1	Ezh239875AlnRep1	0	0.4438717075344255
+emissionprobs	4	1	Ezh239875AlnRep1	1	0.5561282924655744
+emissionprobs	4	2	H2azStdAlnRep1	0	0.9503962701216045
+emissionprobs	4	2	H2azStdAlnRep1	1	0.04960372987839544
+emissionprobs	4	3	H3k27acStdAlnRep1	0	0.9900138199584108
+emissionprobs	4	3	H3k27acStdAlnRep1	1	0.00998618004158932
+emissionprobs	4	4	H3k4me1StdAlnRep1	0	0.9833062731181155
+emissionprobs	4	4	H3k4me1StdAlnRep1	1	0.016693726881884512
+emissionprobs	4	5	H3k4me2StdAlnRep1	0	0.9496243466077099
+emissionprobs	4	5	H3k4me2StdAlnRep1	1	0.050375653392290054
+emissionprobs	4	6	H3k4me3StdAlnRep1	0	0.9159930601211184
+emissionprobs	4	6	H3k4me3StdAlnRep1	1	0.08400693987888166
+emissionprobs	4	7	H3k9acStdAlnRep1	0	0.9770247607428879
+emissionprobs	4	7	H3k9acStdAlnRep1	1	0.022975239257112104
+emissionprobs	4	8	H3k9me3StdAlnRep1	0	0.7379256379221245
+emissionprobs	4	8	H3k9me3StdAlnRep1	1	0.26207436207787554
+emissionprobs	4	9	H4k20me1StdAlnRep1	0	0.9253023090896206
+emissionprobs	4	9	H4k20me1StdAlnRep1	1	0.07469769091037935
+emissionprobs	5	0	CtcfStdAlnRep1	0	0.9919804703734489
+emissionprobs	5	0	CtcfStdAlnRep1	1	0.008019529626550968
+emissionprobs	5	1	Ezh239875AlnRep1	0	0.9864313837003326
+emissionprobs	5	1	Ezh239875AlnRep1	1	0.013568616299667394
+emissionprobs	5	2	H2azStdAlnRep1	0	0.9997712923903076
+emissionprobs	5	2	H2azStdAlnRep1	1	2.2870760969244652E-4
+emissionprobs	5	3	H3k27acStdAlnRep1	0	0.9969417499324047
+emissionprobs	5	3	H3k27acStdAlnRep1	1	0.003058250067595294
+emissionprobs	5	4	H3k4me1StdAlnRep1	0	0.9439090369984112
+emissionprobs	5	4	H3k4me1StdAlnRep1	1	0.05609096300158875
+emissionprobs	5	5	H3k4me2StdAlnRep1	0	0.9890492992173754
+emissionprobs	5	5	H3k4me2StdAlnRep1	1	0.010950700782624662
+emissionprobs	5	6	H3k4me3StdAlnRep1	0	0.9989104490511145
+emissionprobs	5	6	H3k4me3StdAlnRep1	1	0.0010895509488854328
+emissionprobs	5	7	H3k9acStdAlnRep1	0	0.9933076005998456
+emissionprobs	5	7	H3k9acStdAlnRep1	1	0.0066923994001543766
+emissionprobs	5	8	H3k9me3StdAlnRep1	0	0.9921904069375826
+emissionprobs	5	8	H3k9me3StdAlnRep1	1	0.007809593062417313
+emissionprobs	5	9	H4k20me1StdAlnRep1	0	0.8052192027682339
+emissionprobs	5	9	H4k20me1StdAlnRep1	1	0.19478079723176617
+emissionprobs	6	0	CtcfStdAlnRep1	0	0.9896758990942068
+emissionprobs	6	0	CtcfStdAlnRep1	1	0.010324100905793276
+emissionprobs	6	1	Ezh239875AlnRep1	0	0.9804079698201068
+emissionprobs	6	1	Ezh239875AlnRep1	1	0.01959203017989315
+emissionprobs	6	2	H2azStdAlnRep1	0	0.9731299840293511
+emissionprobs	6	2	H2azStdAlnRep1	1	0.026870015970648895
+emissionprobs	6	3	H3k27acStdAlnRep1	0	0.9754973515966255
+emissionprobs	6	3	H3k27acStdAlnRep1	1	0.02450264840337447
+emissionprobs	6	4	H3k4me1StdAlnRep1	0	0.6088401442639535
+emissionprobs	6	4	H3k4me1StdAlnRep1	1	0.39115985573604656
+emissionprobs	6	5	H3k4me2StdAlnRep1	0	0.9160448072198959
+emissionprobs	6	5	H3k4me2StdAlnRep1	1	0.08395519278010408
+emissionprobs	6	6	H3k4me3StdAlnRep1	0	0.996920974667396
+emissionprobs	6	6	H3k4me3StdAlnRep1	1	0.0030790253326039825
+emissionprobs	6	7	H3k9acStdAlnRep1	0	0.9870341587712057
+emissionprobs	6	7	H3k9acStdAlnRep1	1	0.012965841228794385
+emissionprobs	6	8	H3k9me3StdAlnRep1	0	0.9799028522486616
+emissionprobs	6	8	H3k9me3StdAlnRep1	1	0.02009714775133844
+emissionprobs	6	9	H4k20me1StdAlnRep1	0	0.9889548048930539
+emissionprobs	6	9	H4k20me1StdAlnRep1	1	0.0110451951069461
+emissionprobs	7	0	CtcfStdAlnRep1	0	0.9619473472278476
+emissionprobs	7	0	CtcfStdAlnRep1	1	0.038052652772152425
+emissionprobs	7	1	Ezh239875AlnRep1	0	0.9793263594162432
+emissionprobs	7	1	Ezh239875AlnRep1	1	0.020673640583756866
+emissionprobs	7	2	H2azStdAlnRep1	0	0.7824486236042074
+emissionprobs	7	2	H2azStdAlnRep1	1	0.21755137639579264
+emissionprobs	7	3	H3k27acStdAlnRep1	0	0.22058903514628692
+emissionprobs	7	3	H3k27acStdAlnRep1	1	0.7794109648537131
+emissionprobs	7	4	H3k4me1StdAlnRep1	0	0.35411442764878376
+emissionprobs	7	4	H3k4me1StdAlnRep1	1	0.6458855723512161
+emissionprobs	7	5	H3k4me2StdAlnRep1	0	0.6282769346925393
+emissionprobs	7	5	H3k4me2StdAlnRep1	1	0.3717230653074607
+emissionprobs	7	6	H3k4me3StdAlnRep1	0	0.9960717232052911
+emissionprobs	7	6	H3k4me3StdAlnRep1	1	0.00392827679470882
+emissionprobs	7	7	H3k9acStdAlnRep1	0	0.80935646684548
+emissionprobs	7	7	H3k9acStdAlnRep1	1	0.19064353315451998
+emissionprobs	7	8	H3k9me3StdAlnRep1	0	0.9783257991840052
+emissionprobs	7	8	H3k9me3StdAlnRep1	1	0.021674200815994908
+emissionprobs	7	9	H4k20me1StdAlnRep1	0	0.981054929308273
+emissionprobs	7	9	H4k20me1StdAlnRep1	1	0.018945070691726962
+emissionprobs	8	0	CtcfStdAlnRep1	0	0.9107688017708131
+emissionprobs	8	0	CtcfStdAlnRep1	1	0.08923119822918685
+emissionprobs	8	1	Ezh239875AlnRep1	0	0.9698273254039053
+emissionprobs	8	1	Ezh239875AlnRep1	1	0.030172674596094788
+emissionprobs	8	2	H2azStdAlnRep1	0	0.418233417600266
+emissionprobs	8	2	H2azStdAlnRep1	1	0.5817665823997339
+emissionprobs	8	3	H3k27acStdAlnRep1	0	0.022682915601348587
+emissionprobs	8	3	H3k27acStdAlnRep1	1	0.9773170843986514
+emissionprobs	8	4	H3k4me1StdAlnRep1	0	0.17385870007185056
+emissionprobs	8	4	H3k4me1StdAlnRep1	1	0.8261412999281494
+emissionprobs	8	5	H3k4me2StdAlnRep1	0	0.05179383944645592
+emissionprobs	8	5	H3k4me2StdAlnRep1	1	0.948206160553544
+emissionprobs	8	6	H3k4me3StdAlnRep1	0	0.7538499237100605
+emissionprobs	8	6	H3k4me3StdAlnRep1	1	0.24615007628993943
+emissionprobs	8	7	H3k9acStdAlnRep1	0	0.2532556660562573
+emissionprobs	8	7	H3k9acStdAlnRep1	1	0.7467443339437426
+emissionprobs	8	8	H3k9me3StdAlnRep1	0	0.983275989743256
+emissionprobs	8	8	H3k9me3StdAlnRep1	1	0.016724010256743995
+emissionprobs	8	9	H4k20me1StdAlnRep1	0	0.9714667323555756
+emissionprobs	8	9	H4k20me1StdAlnRep1	1	0.02853326764442442
+emissionprobs	9	0	CtcfStdAlnRep1	0	0.8661875738413785
+emissionprobs	9	0	CtcfStdAlnRep1	1	0.1338124261586216
+emissionprobs	9	1	Ezh239875AlnRep1	0	0.9902937953790488
+emissionprobs	9	1	Ezh239875AlnRep1	1	0.009706204620951094
+emissionprobs	9	2	H2azStdAlnRep1	0	0.25349747313618143
+emissionprobs	9	2	H2azStdAlnRep1	1	0.7465025268638187
+emissionprobs	9	3	H3k27acStdAlnRep1	0	0.22516873466477197
+emissionprobs	9	3	H3k27acStdAlnRep1	1	0.7748312653352282
+emissionprobs	9	4	H3k4me1StdAlnRep1	0	0.8779861034366229
+emissionprobs	9	4	H3k4me1StdAlnRep1	1	0.12201389656337719
+emissionprobs	9	5	H3k4me2StdAlnRep1	0	0.10260918981644682
+emissionprobs	9	5	H3k4me2StdAlnRep1	1	0.8973908101835532
+emissionprobs	9	6	H3k4me3StdAlnRep1	0	0.010060011702456477
+emissionprobs	9	6	H3k4me3StdAlnRep1	1	0.9899399882975435
+emissionprobs	9	7	H3k9acStdAlnRep1	0	0.03807139864270528
+emissionprobs	9	7	H3k9acStdAlnRep1	1	0.9619286013572947
+emissionprobs	9	8	H3k9me3StdAlnRep1	0	0.9731626991950323
+emissionprobs	9	8	H3k9me3StdAlnRep1	1	0.026837300804967795
+emissionprobs	9	9	H4k20me1StdAlnRep1	0	0.9826950738401053
+emissionprobs	9	9	H4k20me1StdAlnRep1	1	0.01730492615989463
+emissionprobs	10	0	CtcfStdAlnRep1	0	0.8578338790868429
+emissionprobs	10	0	CtcfStdAlnRep1	1	0.14216612091315703
+emissionprobs	10	1	Ezh239875AlnRep1	0	0.9183787574965399
+emissionprobs	10	1	Ezh239875AlnRep1	1	0.08162124250346015
+emissionprobs	10	2	H2azStdAlnRep1	0	0.30540541192300086
+emissionprobs	10	2	H2azStdAlnRep1	1	0.6945945880769993
+emissionprobs	10	3	H3k27acStdAlnRep1	0	0.9744199234639747
+emissionprobs	10	3	H3k27acStdAlnRep1	1	0.02558007653602537
+emissionprobs	10	4	H3k4me1StdAlnRep1	0	0.8057221185755205
+emissionprobs	10	4	H3k4me1StdAlnRep1	1	0.1942778814244796
+emissionprobs	10	5	H3k4me2StdAlnRep1	0	0.23737996683240362
+emissionprobs	10	5	H3k4me2StdAlnRep1	1	0.7626200331675964
+emissionprobs	10	6	H3k4me3StdAlnRep1	0	0.07739595270276457
+emissionprobs	10	6	H3k4me3StdAlnRep1	1	0.9226040472972354
+emissionprobs	10	7	H3k9acStdAlnRep1	0	0.8151660891846036
+emissionprobs	10	7	H3k9acStdAlnRep1	1	0.1848339108153963
+emissionprobs	10	8	H3k9me3StdAlnRep1	0	0.9449902153265223
+emissionprobs	10	8	H3k9me3StdAlnRep1	1	0.05500978467347769
+emissionprobs	10	9	H4k20me1StdAlnRep1	0	0.9983410215191554
+emissionprobs	10	9	H4k20me1StdAlnRep1	1	0.00165897848084467
+emissionprobs	11	0	CtcfStdAlnRep1	0	0.9599852742920466
+emissionprobs	11	0	CtcfStdAlnRep1	1	0.040014725707953364
+emissionprobs	11	1	Ezh239875AlnRep1	0	0.9821701610023862
+emissionprobs	11	1	Ezh239875AlnRep1	1	0.01782983899761386
+emissionprobs	11	2	H2azStdAlnRep1	0	0.9750711253964508
+emissionprobs	11	2	H2azStdAlnRep1	1	0.024928874603549242
+emissionprobs	11	3	H3k27acStdAlnRep1	0	0.8672689821496612
+emissionprobs	11	3	H3k27acStdAlnRep1	1	0.13273101785033878
+emissionprobs	11	4	H3k4me1StdAlnRep1	0	0.468480137132792
+emissionprobs	11	4	H3k4me1StdAlnRep1	1	0.531519862867208
+emissionprobs	11	5	H3k4me2StdAlnRep1	0	0.18202089043787945
+emissionprobs	11	5	H3k4me2StdAlnRep1	1	0.8179791095621206
+emissionprobs	11	6	H3k4me3StdAlnRep1	0	0.6305622961861548
+emissionprobs	11	6	H3k4me3StdAlnRep1	1	0.3694377038138452
+emissionprobs	11	7	H3k9acStdAlnRep1	0	0.7988748694906037
+emissionprobs	11	7	H3k9acStdAlnRep1	1	0.20112513050939623
+emissionprobs	11	8	H3k9me3StdAlnRep1	0	0.9876010234841843
+emissionprobs	11	8	H3k9me3StdAlnRep1	1	0.012398976515815674
+emissionprobs	11	9	H4k20me1StdAlnRep1	0	0.8063482670669063
+emissionprobs	11	9	H4k20me1StdAlnRep1	1	0.19365173293309373
+emissionprobs	12	0	CtcfStdAlnRep1	0	0.9130634203797225
+emissionprobs	12	0	CtcfStdAlnRep1	1	0.08693657962027745
+emissionprobs	12	1	Ezh239875AlnRep1	0	0.96553530318702
+emissionprobs	12	1	Ezh239875AlnRep1	1	0.03446469681298005
+emissionprobs	12	2	H2azStdAlnRep1	0	0.3176594531211814
+emissionprobs	12	2	H2azStdAlnRep1	1	0.6823405468788185
+emissionprobs	12	3	H3k27acStdAlnRep1	0	0.9374918485985061
+emissionprobs	12	3	H3k27acStdAlnRep1	1	0.06250815140149397
+emissionprobs	12	4	H3k4me1StdAlnRep1	0	0.6129470523391253
+emissionprobs	12	4	H3k4me1StdAlnRep1	1	0.3870529476608748
+emissionprobs	12	5	H3k4me2StdAlnRep1	0	0.6361670322583597
+emissionprobs	12	5	H3k4me2StdAlnRep1	1	0.3638329677416404
+emissionprobs	12	6	H3k4me3StdAlnRep1	0	0.9909407820204486
+emissionprobs	12	6	H3k4me3StdAlnRep1	1	0.009059217979551518
+emissionprobs	12	7	H3k9acStdAlnRep1	0	0.9481037864154395
+emissionprobs	12	7	H3k9acStdAlnRep1	1	0.05189621358456057
+emissionprobs	12	8	H3k9me3StdAlnRep1	0	0.9783696204158631
+emissionprobs	12	8	H3k9me3StdAlnRep1	1	0.021630379584136897
+emissionprobs	12	9	H4k20me1StdAlnRep1	0	0.9971941005101297
+emissionprobs	12	9	H4k20me1StdAlnRep1	1	0.0028058994898703836
+emissionprobs	13	0	CtcfStdAlnRep1	0	0.07900076608088956
+emissionprobs	13	0	CtcfStdAlnRep1	1	0.9209992339191104
+emissionprobs	13	1	Ezh239875AlnRep1	0	0.9750942172591534
+emissionprobs	13	1	Ezh239875AlnRep1	1	0.024905782740846677
+emissionprobs	13	2	H2azStdAlnRep1	0	0.9278271460449308
+emissionprobs	13	2	H2azStdAlnRep1	1	0.0721728539550692
+emissionprobs	13	3	H3k27acStdAlnRep1	0	0.9988184259521176
+emissionprobs	13	3	H3k27acStdAlnRep1	1	0.0011815740478824715
+emissionprobs	13	4	H3k4me1StdAlnRep1	0	0.9711830002414793
+emissionprobs	13	4	H3k4me1StdAlnRep1	1	0.028816999758520735
+emissionprobs	13	5	H3k4me2StdAlnRep1	0	0.9878695427808781
+emissionprobs	13	5	H3k4me2StdAlnRep1	1	0.012130457219121874
+emissionprobs	13	6	H3k4me3StdAlnRep1	0	0.9984280461807391
+emissionprobs	13	6	H3k4me3StdAlnRep1	1	0.0015719538192608604
+emissionprobs	13	7	H3k9acStdAlnRep1	0	0.9640947486235043
+emissionprobs	13	7	H3k9acStdAlnRep1	1	0.03590525137649565
+emissionprobs	13	8	H3k9me3StdAlnRep1	0	0.9737647035319631
+emissionprobs	13	8	H3k9me3StdAlnRep1	1	0.026235296468036958
+emissionprobs	13	9	H4k20me1StdAlnRep1	0	0.9878634040856018
+emissionprobs	13	9	H4k20me1StdAlnRep1	1	0.012136595914398193
